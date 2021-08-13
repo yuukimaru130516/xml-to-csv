@@ -1,4 +1,6 @@
+#!/usr/bin/env python3
 # xmlファイルから、csvファイルに変換するモジュール
+
 import xml.etree.ElementTree as ET
 import csv
 import pandas as pd
